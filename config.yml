@@ -1,0 +1,77 @@
+theme: charlolamode
+title: njoylab.com
+menu:
+    main:
+        - name: Projects
+          url: /projects/
+          weight: 15
+
+     # - name: Categories
+        #   url: /categories/
+        #   weight: 10
+        # - name: new Tab
+        #   url: /newtab/
+        #   weight: defines order of tabs
+   
+
+Copyright: ♥
+params:
+    author: ""
+    defaultTheme: auto
+    # disableThemeToggle: true
+    ShowShareButtons: true
+    ShowReadingTime: false
+    displayFullLangName: true
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowToc: true
+
+    profileMode:
+        # Disable to populate home page with 'mainSections' content
+        enabled: true
+        title: 👻
+        description: |
+
+          Hello, I am Emiliano.
+           I do stuff, mainly digital related
+        
+        imageUrl: "/images/profile.png"
+        imageTitle: emiliano
+        # imageWidth: 120
+        # imageHeight: 120
+        buttons:
+            - name: 🎙️ Digital Defenders 
+              url: https://spotify.link/AWpTPcfxMyb
+    mainSections:
+      - articles
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/njoylab"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/emlns/"
+        - name: twitter
+          url: https://twitter.com/emln_
+      # add more social icons. find more in svg.html file
+      # - name: youtube
+      #   url: yoururl
+      # - name: facebook
+      #   url: yoururl
+
+
+    # change favicon in images folder (icon for web tab)
+    assets:
+          favicon: "/images/favicon.ico"
+          favicon16x16: "/images/favicon-16x16.png"
+          favicon32x32: "/images/favicon-32x32.png"
+          apple_touch_icon: "/images/apple-touch-icon.png"
+          safari_pinned_tab: "/images/apple-touch-icon.png"
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+enableEmoji: true
+pygmentsUseClasses: true
+
+minify:
+    disableXML: true
+  
