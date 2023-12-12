@@ -32,14 +32,17 @@ params:
         title: 👻
         description: |
 
-          Hello, I am Emiliano.
-           I do stuff, mainly digital related
+          Hello, I'm Emiliano, 
+          a passionate full-stack developer and startupper who loves creating innovative digital products. With a deep love for technology and an entrepreneurial spirit.
+          I excel in bringing ideas to life, one line of code at a time.
         
         imageUrl: "/images/profile.png"
         imageTitle: emiliano
         # imageWidth: 120
         # imageHeight: 120
         buttons:
+            - name: 🤖 echoValue API
+              url: https://www.echovalue.dev/
             - name: 🎙️ Digital Defenders 
               url: https://spotify.link/AWpTPcfxMyb
     mainSections:
