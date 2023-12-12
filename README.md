@@ -33,7 +33,7 @@ A step by step series of examples that tell you how to get a development env run
 
 3. Run Locally
    ```bash
-   hugo server
+   hugo serve
 
 Now, your site should be running on http://localhost:1313.
 
