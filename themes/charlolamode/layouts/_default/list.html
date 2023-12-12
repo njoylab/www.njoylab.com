@@ -73,6 +73,11 @@
       {{- partial "post_meta.html" . -}}
     </footer>
     {{- end }}
+    {{- if ( eq (.Param "type") "article") }}
+    <footer class="entry-footer">
+      {{ .Date | time.Format ":date_medium"}}
+    </footer>
+    {{- end }}
   {{- if .Params.link }}
   <a class="entry-link" href="{{ .Params.link }}"></a>
     {{- else }}
