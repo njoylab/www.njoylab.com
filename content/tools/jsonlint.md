@@ -5,6 +5,6 @@ description: "A straightforward tool to quickly validate and format JSON data. I
 type: page
 topic: tool
 tags: ["json", "linter"]
-link: "https://lint.echovalue.dev"
+link: "https://jsonlint.echovalue.dev"
 image: "/images/json-lint.webp"
 ---
