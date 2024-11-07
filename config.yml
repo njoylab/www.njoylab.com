@@ -5,6 +5,9 @@ menu:
         - name: Projects
           url: /projects/
           weight: 15
+        - name: Tools
+          url: /tools/
+          weight: 18
         - name: Articles
           url: /articles/
           weight: 20
