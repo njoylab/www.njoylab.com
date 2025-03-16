@@ -58,6 +58,8 @@ params:
           url: "https://github.com/njoylab"
         - name: linkedin
           url: "https://www.linkedin.com/in/emlns/"
+        - name: instagram
+          url: "https://www.instagram.com/emlnsrn/"
         - name: twitter
           url: https://twitter.com/emln_
       # add more social icons. find more in svg.html file
