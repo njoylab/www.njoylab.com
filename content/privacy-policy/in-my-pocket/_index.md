@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy for "In My Pocket"
+description: Easily organize bank accounts, loyalty cards, and documents in customizable tabs with fields for text, images, and PDF files. 
 ---
 
 **Last Updated:** March 20, 2025
