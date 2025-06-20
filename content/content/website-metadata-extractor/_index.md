@@ -35,7 +35,7 @@ The main endpoint accepts a URL and returns structured JSON metadata.
 Here’s a basic cURL example:
 
 ```bash
-curl -X POST "https://your-rapidapi-host.com/scrape" \
+curl -X POST "https://website-url-to-metadata.p.rapidapi.com/" \
   -H "Content-Type: application/json" \
   -H "X-RapidAPI-Host: your-assigned-host" \
   -H "X-RapidAPI-Key: your-api-key" \
@@ -49,7 +49,7 @@ Using Node.js:
 ```js
 import axios from 'axios';
 
-const response = await axios.post('https://your-rapidapi-host.com/scrape', {
+const response = await axios.post('https://website-url-to-metadata.p.rapidapi.com/', {
   url: 'https://example.com'
 }, {
   headers: {
@@ -67,7 +67,7 @@ Using Python:
 ```python
 import requests
 
-url = "https://your-rapidapi-host.com/scrape"
+url = "https://website-url-to-metadata.p.rapidapi.com/"
 headers = {
     "Content-Type": "application/json",
     "X-RapidAPI-Host": "your-assigned-host",
