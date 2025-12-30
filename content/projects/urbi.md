@@ -6,5 +6,5 @@ type: page
 topic: project
 tags: ["startup","mobility"]
 link: "https://www.urbi.co"
-image: "/images/urbi.jpg"
+image: "/images/urbi.webp"
 ---

@@ -6,5 +6,5 @@ type: page
 topic: project
 tags: ["web","game","formula1"]
 link: "https://www.racemapper.app"
-image: "/images/racemapper.jpg"
+image: "/images/racemapper.webp"
 ---

@@ -7,5 +7,5 @@ type: page
 topic: project
 tags: ["podcast","hacking", "activism", "hacktivism"]
 link: "https://linktr.ee/byteexplorer"
-image: "/images/digital-defenders.jpg"
+image: "/images/digital-defenders.webp"
 ---

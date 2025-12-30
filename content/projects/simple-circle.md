@@ -8,5 +8,5 @@ type: page
 topic: project
 tags: ["iOS","mobile"]
 link: "https://apps.apple.com/us/app/simple-circle/id1661647058"
-image: "/images/simple-circle.jpg"
+image: "/images/simple-circle.webp"
 ---

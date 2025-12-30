@@ -6,5 +6,5 @@ type: page
 topic: project
 tags: ["nft","web3","telepass"]
 link: "https://nft.telepass.com"
-image: "/images/nftlp.jpg"
+image: "/images/nftlp.webp"
 ---
