@@ -32,10 +32,12 @@ params:
     ShowCodeCopyButtons: true
     ShowToc: true
 
+    description: "Full-stack developer and entrepreneur. Creator of InstaTrack, echoValue and other tools. Building innovative digital products, one line of code at a time."
+
     profileMode:
         # Disable to populate home page with 'mainSections' content
         enabled: true
-        title: 👻
+        title: Emiliano Saurin 👻
         description: |
 
           Hello, I'm Emiliano, 

@@ -7,4 +7,5 @@ topic: tool
 tags: ["instagram", "analytics", "privacy"]
 link: "https://instatrack.njoylab.com"
 image: "/images/instatrack.webp"
+canonicalURL: "https://instatrack.njoylab.com/"
 ---
