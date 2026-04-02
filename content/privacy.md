@@ -16,7 +16,7 @@ This site uses **Cloudflare Web Analytics** to measure traffic. Cloudflare colle
 - Page views and navigation paths
 - Referring URLs
 - Browser type and operating system
-- Country of origin (derived from IP address, not stored)
+- Country of origin (IP addresses are processed transiently by Cloudflare to derive the country, but are not stored or logged by this site)
 
 No personal data is stored. No individual user is tracked.
 
@@ -36,7 +36,3 @@ Cloudflare acts as a data processor and handles data in accordance with GDPR. No
 ### Your rights (GDPR)
 
 Since no personal data is collected or stored by this site, there is no personal data to access, correct, or delete. For questions about data processed by Cloudflare, refer to [Cloudflare's privacy policy](https://www.cloudflare.com/privacypolicy/).
-
-### Contact
-
-For any privacy-related questions: [emiliano@njoylab.com](mailto:emiliano@njoylab.com)
