@@ -1,0 +1,97 @@
+[
+  {
+    "slug": "echovalue",
+    "title": "echoValue.dev",
+    "publishdate": "2023-12-11",
+    "description": "echoValue is a Key-Value Store API that offers a lightweight and user-friendly solution for developers and freelancers, especially those focusing on smaller projects. This API simplifies the storage and retrieval of key-value data, eliminating the need for complex server setups.",
+    "tags": ["saas", "api", "database"],
+    "link": "https://www.echovalue.dev",
+    "image": "/images/echovalue-api.webp",
+    "schema": "SoftwareApplication",
+    "applicationCategory": "DeveloperApplication"
+  },
+  {
+    "slug": "in-my-pocket",
+    "title": "iOS: In My Pocket",
+    "publishdate": "2025-03-21",
+    "description": "Easily organize bank accounts, loyalty cards, and documents in customizable tabs with fields for text, images, and PDF files. Protect sensitive data with selective authentication and quickly access information with instant copy. Data is stored locally only, never in the cloud or online, ensuring complete privacy even without an internet connection. No synchronization between devices for maximum security.",
+    "tags": ["iOS", "mobile"],
+    "link": "https://apps.apple.com/us/app/in-my-pocket/id6444294006",
+    "image": "/images/in-my-pocket.webp",
+    "schema": "MobileApplication",
+    "applicationCategory": "FinanceApplication"
+  },
+  {
+    "slug": "werace.racemapper",
+    "title": "WEB: WeRace Ranking System",
+    "publishdate": "2024-01-01",
+    "description": "A dedicated ranking platform for the WeRace karting community, providing real-time standings, performance stats, and leaderboards. Built to keep racers and fans up-to-date with the latest rankings and foster a competitive spirit within the WeRace.it community.",
+    "tags": ["web", "karting", "ranking", "werace"],
+    "link": "https://werace.racemapper.app",
+    "image": "/images/werace.webp",
+    "schema": "WebApplication"
+  },
+  {
+    "slug": "digital-defenders",
+    "title": "Podcast: Digital Defenders",
+    "publishdate": "2023-03-01",
+    "description": "Digital Defenders is a podcast that dives into the lives and stories of digital activists who fight for a free and open internet. Join host ByteExplorer as we explore the personal struggles, legal battles, and inspiring legacies of these brave individuals who dedicate their lives to protecting digital rights and advocating for open access to knowledge.",
+    "tags": ["podcast", "hacking", "activism", "hacktivism"],
+    "link": "https://linktr.ee/byteexplorer",
+    "image": "/images/digital-defenders.webp",
+    "schema": "PodcastSeries"
+  },
+  {
+    "slug": "simple-circle",
+    "title": "iOS: Simple Circle",
+    "publishdate": "2023-02-01",
+    "description": "Get ready for a simple yet challenging game with Simple Circle! In this addictive tap game, your goal is to tap as many circles as you can before they explode. The more circles you tap, the higher your score will be. Compete against players from around the world on the leaderboard.",
+    "tags": ["iOS", "mobile"],
+    "link": "https://apps.apple.com/us/app/simple-circle/id1661647058",
+    "image": "/images/simple-circle.webp",
+    "schema": "MobileApplication",
+    "applicationCategory": "GameApplication"
+  },
+  {
+    "slug": "nftlp",
+    "title": "NFT: Telepass NFTLP",
+    "publishdate": "2022-12-01",
+    "description": "Take a ride to the future with Telepass utility NFTs and enjoy your meta-perks in the real world.",
+    "tags": ["nft", "web3", "telepass"],
+    "link": "https://nft.telepass.com",
+    "image": "/images/nftlp.webp",
+    "schema": "CreativeWork"
+  },
+  {
+    "slug": "racemapper",
+    "title": "WEB: Racemapper [dismissed]",
+    "publishdate": "2022-01-01",
+    "description": "RaceMapper is the ultimate companion for experiencing the thrill of Formula 1 Game like never before. We are dedicated to providing an enhanced experience for both commentators and viewers by offering in-depth information, analysis tools, and lasting memories of each race.",
+    "tags": ["web", "game", "formula1"],
+    "link": "https://www.racemapper.app",
+    "image": "/images/racemapper.webp",
+    "schema": "WebApplication",
+    "dismissed": true
+  },
+  {
+    "slug": "urbi",
+    "title": "Startup: URBI",
+    "publishdate": "2013-01-01",
+    "description": "Founder at URBI, urban mobility aggregator. Sold to Telepass.com.",
+    "tags": ["startup", "mobility"],
+    "link": "https://www.urbi.co",
+    "image": "/images/urbi.webp",
+    "schema": "Organization"
+  },
+  {
+    "slug": "love-our-locals",
+    "title": "Web: Love Our Locals [dismissed]",
+    "publishdate": "2020-03-01",
+    "description": "A lot of Local Businesses might live a crisis because of COVID-19 emergency. There are few city-specific webpages which are directories of businesses that offer online Gift Cards for purchase. I aimed to create as well an open platform where anyone can add their favourite locals to support everywhere.",
+    "tags": ["covid19", "map"],
+    "link": "#",
+    "image": "/images/love-our-locals.webp",
+    "schema": "WebApplication",
+    "dismissed": true
+  }
+]

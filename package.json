@@ -1,0 +1,13 @@
+{
+  "name": "www.njoylab.com",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "node build.js",
+    "dev": "node build.js && npx serve public"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
